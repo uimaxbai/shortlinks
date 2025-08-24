@@ -17,5 +17,5 @@
     <p>If you are not redirected automatically, follow this <a style="cursor: pointer; text-decoration: underline; color: #6ea8fe;" href="{data.link}">link</a>.</p>
     <span style="color: #aaa"><a style="cursor: pointer; text-decoration: underline" href="{data.link}">{data.link}</a></span>
     <br>
-    <i style="font-size: 10px;">The <a href="https://okit.works">okit.works</a> shortener</i>
+    <i style="font-size: 10px;">The <a href="https://binimum.org">binimum.org</a> shortener</i>
 </main>
