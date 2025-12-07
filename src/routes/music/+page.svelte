@@ -1,6 +1,6 @@
 <script>
     import { onMount } from 'svelte';
-    const LINK = "https://github.com/uimaxbai";
+    const LINK = "https://music.binimum.org";
     onMount(() => {
         window.location.replace(LINK);
         window.location.href = LINK;
